@@ -4,7 +4,7 @@ author: alice qian
 
 一些基础algorithm的python实现
 
-1. Sorting
-（1）merge sort归并排序
-（2）insertion sort插入排序
+## 1. Sorting
+- merge sort 归并排序
+- insertion sort 插入排序
 
