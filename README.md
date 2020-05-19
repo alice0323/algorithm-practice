@@ -2,5 +2,9 @@
 02.06.2020
 author: alice qian
 
-python in-class practice
-this is a python code i try in 02062020 python class. it covers if statement and for loop.
+一些基础algorithm的python实现
+
+1. Sorting
+（1）merge sort归并排序
+（2）insertion sort插入排序
+
