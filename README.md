@@ -8,3 +8,5 @@ author: alice qian
 - merge sort 归并排序
 - insertion sort 插入排序
 
+## 2. Neural Net
+- numpy two-layer neural net (实现简单两层神经网络)
